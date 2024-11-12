@@ -4,8 +4,6 @@ import timeit
 import Algorithm
 peloton_speed = 2
 ralph_speed = 1
-ralph_position = [1, 2]
-vertices = [[1, 2], [7, 14], [3, 5], [6, 9]]
 
 if __name__ == '__main__':
 
